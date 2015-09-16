@@ -1,0 +1,4 @@
+001-0724b00	TKD 36-0631c	buddhist/K-koreana/36-tif/0600-0699/36_0631_C.TIF
+001-0724b22	TKD 36-0632a	buddhist/K-koreana/36-tif/0600-0699/36_0632_A.TIF
+000-0724c17	TKD 36-0632b	buddhist/K-koreana/36-tif/0600-0699/36_0632_B.TIF
+000-0725a08	TKD 36-0632c	buddhist/K-koreana/36-tif/0600-0699/36_0632_C.TIF
