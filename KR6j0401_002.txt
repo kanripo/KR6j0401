@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:42.969803
+#+DATE: 2015-08-30 20:31:45.279586
 #+TITLE: 大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經
 #+PROPERTY: CBETA_ID T20n1177A
 #+PROPERTY: ID KR6j0401
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1177A
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6j0401_T_000-0724b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0401_T_002-0731a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 大乘瑜伽金剛性海曼殊室利千¶
+大乘瑜伽金剛性海曼殊室利千¶
 臂千鉢大教王經卷第二¶
 ¶
 大興善寺三藏沙門大廣智¶
 不空奉　詔譯¶
 
-2諸佛出現證修金剛菩提殊勝品
-:PROPERTIES:
-:head: 二者說諸佛出現證修金剛菩提殊勝第二¶
-品
-:END:
-¶
+二者說諸佛出現證修金剛菩提殊勝第二¶
+品¶
 
 是時釋迦牟尼如來。告曼殊室利菩薩言。吾¶
 今啟請諸佛如來。令聖力加持一切菩薩摩¶
