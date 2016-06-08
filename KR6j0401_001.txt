@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:42.931781
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:03
 #+TITLE: 大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經
 #+PROPERTY: CBETA_ID T20n1177A
 #+PROPERTY: ID KR6j0401
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1177A
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0401_T_000-0724b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0401_T_001-0724b> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1177A¶
+No. 1177A¶
 
-1大乘瑜伽金剛性海曼殊室利千臂千缽大教王經序
-:PROPERTIES:
-:head: 大乘瑜伽金剛性海曼殊室利千¶
-臂千鉢大教王經卷第一(并序)
-:END:
+* 大乘瑜伽金剛性海曼殊室利千¶
+臂千鉢大教王經卷第一(并序)¶
 ¶
-¶
-大興善寺三藏沙門大廣智¶
-不空奉　詔譯¶
+大興善寺三藏沙門大廣智不空奉　詔譯¶
 
 敘曰。大唐開元二十一年。歲次癸酉。正月一¶
 日辰時。於薦福寺道場內。金剛三藏與僧慧¶
@@ -113,13 +108,12 @@ No.1177A¶
 　千臂曼殊蓮華會
 　金剛等持付一切¶
 　五智潛通加被心
-　出到菩提證實際
+　出到菩提證實際」
 #+END_VERSE
-」¶
 ¶
 ¶
-
- 大乘瑜伽金剛性海曼殊室利千¶
+¶
+大乘瑜伽金剛性海曼殊室利千¶
 臂千鉢大教王經卷第一¶
 ¶
 

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:43.178351
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:03
 #+TITLE: 大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經
 #+PROPERTY: CBETA_ID T20n1177A
 #+PROPERTY: ID KR6j0401
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1177A
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0401_T_000-0724b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0401_T_010-0772c> 
 #+PROPERTY: JUAN 10
 ¶
-
- 大乘瑜伽金剛性海曼殊室利千¶
+大乘瑜伽金剛性海曼殊室利千¶
 臂千鉢大教王經卷第十¶
 ¶
 大興善寺三藏沙門大廣智¶
