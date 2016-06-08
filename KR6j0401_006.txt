@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:44.288708
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:04
 #+TITLE: 大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經
 #+PROPERTY: CBETA_ID T20n1177A
 #+PROPERTY: ID KR6j0401
